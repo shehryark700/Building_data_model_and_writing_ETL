@@ -1,1 +1,7 @@
-# Building_data_model_and_writing_ETL
+create connection with postgres
+create database
+create table
+insert data
+read csv files
+cleaning the data
+load into database
